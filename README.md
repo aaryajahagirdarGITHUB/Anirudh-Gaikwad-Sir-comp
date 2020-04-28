@@ -1,6 +1,6 @@
-# SpringBootExamples
+# Series of SpringBootExamples
 
-1) webap is SpringBoot+JSP Example using AdminLTE3
+# 1) webap is SpringBoot+JSP Example using AdminLTE3
  
 Login Page --> http://localhost:8081/
 ![Login](webap/screenshot/login.PNG "Login")
