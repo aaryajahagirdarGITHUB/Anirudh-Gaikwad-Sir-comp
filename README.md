@@ -4,7 +4,7 @@
  
 Login Page --> http://localhost:8081/
 
-![Dashboard](webap/screenshot/Dashboard.png "Dashboard")
+![Dashboard](webap/screenshot/Dashboard.PNG "Dashboard")
 
 
 AdminLte Dashboard ---> http://localhost:8081/adminportal
